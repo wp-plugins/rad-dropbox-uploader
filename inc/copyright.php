@@ -1,0 +1,1 @@
+<span style="font-size:10px;">&copy; <?php echo date("Y"); ?> af Creative. All Rights Reserved!</span>
